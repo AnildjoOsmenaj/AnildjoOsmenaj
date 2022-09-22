@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anildjo Osmenaj
-- 👀 I’m interested in programare
-- 🌱 I’m currently learning a programmare
+- 👀 I’m interested in 
+- 🌱 I’m currently learning a 
 - 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me  pcanildjo@gmail.com
 
